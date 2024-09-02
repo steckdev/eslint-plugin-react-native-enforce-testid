@@ -21,7 +21,7 @@
     "url": "https://github.com/frzkn/eslint-plugin-react-native-enforce-testid/issues"
   },
   "homepage": "https://github.com/frzkn/eslint-plugin-react-native-enforce-testid#readme",
-  "dependencies": {
+  "devDependencies": {
     "@babel/parser": "^7.22.5",
     "babel-eslint": "^10.1.0",
     "eslint": "^8.43.0"
